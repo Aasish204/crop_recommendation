@@ -18,19 +18,15 @@ A machine learning project that recommends the most suitable crop to grow based 
 ________________________________________
 Crop Recommendation Dataset
 
-• Columns:
+• Columns :
 
     o	N, P, K - Soil Nutrient content
-
     o	temperature, humidity - Environmental data
-
     o	ph - Soil pH level
-
     o	rainfall - Average rainfall
-
     o	label - Crop name
 ________________________________________
-Model
+Model :
 
 • Algorithm: Random Forest Classifier
 
