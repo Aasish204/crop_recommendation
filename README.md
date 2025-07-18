@@ -11,23 +11,25 @@ A machine learning project that recommends the most suitable crop to grow based 
 
 • Visualizations included for:
 
- o	Class distribution
- o	Feature distributions
- o	Feature importance
- o	Correlation heatmap
+    o	Class distribution
+    o	Feature distributions
+    o	Feature importance
+    o	Correlation heatmap
+________________________________________
 Crop Recommendation Dataset
 
 • Columns:
 
-o	N, P, K - Soil Nutrient content
+    o	N, P, K - Soil Nutrient content
 
-o	temperature, humidity - Environmental data
+    o	temperature, humidity - Environmental data
 
-o	ph - Soil pH level
+    o	ph - Soil pH level
 
-o	rainfall - Average rainfall
+    o	rainfall - Average rainfall
 
-o	label - Crop name
+    o	label - Crop name
+________________________________________
 Model
 
 • Algorithm: Random Forest Classifier
@@ -36,6 +38,6 @@ Model
 
 • Performance:
 
-o	Training Accuracy: 100%
-o	Cross-validation Accuracy: 99.4%
-o	Test Accuracy: 99.3%
+    o	Training Accuracy: 100%
+    o	Cross-validation Accuracy: 99.4%
+    o	Test Accuracy: 99.3%
